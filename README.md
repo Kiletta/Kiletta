@@ -1,4 +1,4 @@
-Hey there! 👋 I'm **Kileta**, an aspiring developer passionate about Kenyan cuisine and diving deep into the world of code. Welcome to my corner of GitHub!
+Hey there! 👋 I'm **Kileta**, an aspiring data analyst.
 
 ---
 
