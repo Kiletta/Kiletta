@@ -4,9 +4,7 @@ Hey there! 👋 I'm **Kileta**, an aspiring data analyst.
 
 ## My Current Adventures 🚀
 
-* 🔭 I'm currently whipping up a delicious project: a digital recipe book featuring various Kenyan dishes, all brought to life with **HTML** and styled beautifully with **CSS**. Think of it as a tasty way to blend my love for food and my growing coding skills!
-* 🌱 I'm on an exciting learning journey! Right now, I'm solidifying my knowledge in **HTML** and **CSS**, and mastering the ins and outs of **Git and GitHub** through hands-on projects. My goal is to become proficient in web development before exploring other fields like cybersecurity or data analysis.
-
+Data Analyst using Python & SQL to extract game-changing insights. Proven experience delivering analytical models in housing market trends, voter behavior, and football analytics. Focused on helping clients and tech teams turn raw data into strategic outcomes.
 ---
 
 ## Let's Connect! 🤝
