@@ -2,9 +2,9 @@ Hey there! 👋 I'm **Kileta**, an aspiring data analyst.
 
 ---
 
-## My Current Adventures 🚀
+## My Current Adventures 🚀 
 
-Data Analyst using Python & SQL to extract game-changing insights. Proven experience delivering analytical models in housing market trends, voter behavior, and football analytics. Focused on helping clients and tech teams turn raw data into strategic outcomes.
+*Data Analyst using Python & SQL to extract game-changing insights.* Proven experience delivering analytical models in housing market trends, voter behavior, and football analytics. Focused on helping clients and tech teams turn raw data into strategic outcomes.
 ---
 
 ## Let's Connect! 🤝
